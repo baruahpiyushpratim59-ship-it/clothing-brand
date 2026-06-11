@@ -1,0 +1,6 @@
+{
+  "name": "XLoth",
+  "description": "Premium luxury fashion and streetwear brand of high-end garments, modern oversized fit, and minimal aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
